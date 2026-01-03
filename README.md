@@ -1,4 +1,4 @@
-# Hikaru Utada – Beautiful World (2024 Mix)
+# 宇多田ヒカル – Beautiful World (2024 Mix)
 
 > **歌詞登録ステータス：プレーン歌詞のみ**
 
