@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Beautiful World (2024 Mix)",
   "base_artist": "宇多田ヒカル",
-  "createdAt": "2026-01-03T02:36:21.809245Z",
+  "createdAt": "2026-02-06T07:00:35.488033Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -65,8 +65,8 @@
       "source": "lrclib",
       "title": "Beautiful World",
       "artist": "Archive",
-      "has_synced": true,
-      "path": "select/08_Beautiful_World_Archive.lrc"
+      "has_synced": false,
+      "path": "select/08_Beautiful_World_Archive.txt"
     },
     {
       "id": "lrclib_9",
